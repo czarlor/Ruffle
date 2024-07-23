@@ -107,7 +107,7 @@ License
 Ruffle is licensed under either of
 
 Apache License, Version 
-MIT License(http://t.me/czarbit)
+[MIT License](http://t.me/czarbit)
 at your option.
 
 Ruffle depends on third-party libraries under compatible licenses. See LICENSE.md for full information.
